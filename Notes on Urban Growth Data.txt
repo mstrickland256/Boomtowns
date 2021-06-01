@@ -1,0 +1,4 @@
+The original source of the data is the UN's World Urbanization Prospects: The 2018 Revision, which was simplified and processed into a single table.
+
+The data here relates to urban agglomerations (a standardized technical specification for cities) with populations of at least 300,000 people. In the analysis, I then compared the populations in 2020 against those projected for 2030 and simply mapped them out. Size of the bubbles relates to the size of population in 2030, while the color represents the projected growth rate over the decade from 2020 to 2030.
+
